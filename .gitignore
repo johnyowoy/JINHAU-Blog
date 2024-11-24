@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Themes
+themes/
+
+# Misc
+.DS_Store
+Thumbs.db
+db.json
+*.log
+public/
+.deploy*/
+_multiconfig.yml
